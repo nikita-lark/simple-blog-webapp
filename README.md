@@ -27,3 +27,4 @@ which consists of a RESTful web service and an UI. The web service is built on t
 ```
 $ mvn clean package
 ```
+`simple-blog-webapp.war` is then available from the `./targer` directory.
